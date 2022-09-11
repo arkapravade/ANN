@@ -10,7 +10,7 @@ reserve for testing.
 
 A more advanced and capable version of the Artificial Neuron Network (ANN), was developed
 using Keras in python which was tested using Thermodynamic Steam Table containing over 250
-patters. In this scope, pressure and temperature were considered as features/iunput pareameters,
+patterns. In this scope, pressure and temperature were considered as features/iunput pareameters,
 and internal energy & enthalpy for liquid & gas phases were taken as four output values.
 After scaling the data, the model was developed using three hidden layers each having
 500 nodes, with Rectified Linear Unit (ReLU) as activation function, 'Adam' as optimizer and
